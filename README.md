@@ -2,6 +2,10 @@
 
 MCP Server for the Fireflies.ai API, enabling transcript retrieval, search, and summary generation.
 
+<a href="https://glama.ai/mcp/servers/0q6f93zjkb">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/0q6f93zjkb/badge" alt="Fireflies Server MCP server" />
+</a>
+
 ### Features
 
 - **Transcript Management**: Retrieve and search meeting transcripts with filtering options
@@ -107,4 +111,4 @@ FIREFLIES_API_KEY=your_api_key npm start
 
 ## License
 
-This MCP server is licensed under the MIT License. This means you are free to use, modify, and distribute the software, subject to the terms and conditions of the MIT License. For more details, please see the LICENSE file in the project repository. 
+This MCP server is licensed under the MIT License. This means you are free to use, modify, and distribute the software, subject to the terms and conditions of the MIT License. For more details, please see the LICENSE file in the project repository.
